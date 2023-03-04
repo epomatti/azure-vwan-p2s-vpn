@@ -1,4 +1,4 @@
-# Azure Point to Site VPN
+# Azure Virtual WAN P2S VPN
 
 Azure WAN with a client-to-site VPN connection.
 

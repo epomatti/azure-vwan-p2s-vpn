@@ -10,3 +10,5 @@ Azure WAN with a client-to-site VPN connection.
 terraform init
 terraform apply -auto-approve
 ```
+
+Download the EAPTLS user VPN profile.

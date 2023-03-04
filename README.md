@@ -11,4 +11,4 @@ terraform init
 terraform apply -auto-approve
 ```
 
-Download the EAPTLS user VPN profile.
+Download the EAPTLS user VPN profile to connect with your preferred client.
